@@ -1,0 +1,30 @@
+_repo: Rural-Problems-of-Today_28365
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Groves, Ernest R. (Ernest Rutherford)
+    aliases:
+    - Groves, Ernest Rutherford
+    - Groves, E. R. (Ernest Rutherford)
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '33292'
+    url: http://www.gutenberg.org/2009/agents/33292
+description: ''
+gutenberg_issued: '2009-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rural conditions'
+- !lcsh 'Social problems'
+- !lcc 'HT'
+title: Rural Problems of Today
+url: http://www.gutenberg.org/ebooks/28365
